@@ -86,7 +86,8 @@
 
 
     <modules>
-        <module>state-builder</module>
+        <module>state-model</module>
+        <module>state-engine</module>
     </modules>
 
     <dependencyManagement>
@@ -94,7 +95,12 @@
             <!-- Modules in this project -->
             <dependency>
                 <groupId>com.networknt</groupId>
-                <artifactId>state-machine</artifactId>
+                <artifactId>state-model</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.networknt</groupId>
+                <artifactId>state-engine</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
