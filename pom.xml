@@ -72,7 +72,7 @@
         <version.logback>1.2.7</version.logback>
         <version.junit>4.13.1</version.junit>
         <version.undertow>2.2.14.Final</version.undertow>
-        <version.hazelcast>4.0.5</version.hazelcast>
+        <version.hazelcast>5.1</version.hazelcast>
         <version.snakeyaml>1.26</version.snakeyaml>
         <version.redis>2.9.0</version.redis>
         <version.hikaricp>3.1.0</version.hikaricp>
