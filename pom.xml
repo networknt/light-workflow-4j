@@ -73,7 +73,7 @@
         <version.junit>4.13.1</version.junit>
         <version.undertow>2.2.19.Final</version.undertow>
         <version.hazelcast>5.1</version.hazelcast>
-        <version.snakeyaml>1.31</version.snakeyaml>
+        <version.snakeyaml>1.32</version.snakeyaml>
         <version.redis>2.9.0</version.redis>
         <version.hikaricp>3.1.0</version.hikaricp>
         <version.h2>2.1.210</version.h2>
