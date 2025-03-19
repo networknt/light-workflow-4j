@@ -75,7 +75,7 @@
         <version.hazelcast>5.1</version.hazelcast>
         <version.snakeyaml>2.4</version.snakeyaml>
         <version.redis>2.9.0</version.redis>
-        <version.hikaricp>3.1.0</version.hikaricp>
+        <version.hikaricp>6.2.1</version.hikaricp>
         <version.h2>2.2.220</version.h2>
         <version.httpclient>4.5.14</version.httpclient>
         <version.jsonpath>2.9.0</version.jsonpath>
